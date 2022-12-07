@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Ibrahim-Eltoukhy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ibrahim Eltoukhy
+- 👀 I’m interested in developing nice web sites
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on front end projects
+- 📫 How to reach me 
 
 <!---
 Ibrahim-Eltoukhy/Ibrahim-Eltoukhy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
